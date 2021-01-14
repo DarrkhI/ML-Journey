@@ -39,4 +39,4 @@ https://lrouviere.github.io/ml_lecture/
 
 J'ai fait un code python (adaptable) pour traiter des fichiers au format CSV et les concaténer & conserver les données qui m’intéressent. Avec un peu d'aléatoire pour répartir les équipes/joueurs ! Ici appliqué à des données de tennis (ATP) entre 2010 et 2018 provenant du site : http://www.tennis-data.co.uk/alldata.php .
 
-fichiers : transfo_database.py et metadata_tennis .
+fichier : Tennis_preparation_donnees
