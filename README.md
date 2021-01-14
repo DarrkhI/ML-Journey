@@ -4,6 +4,7 @@ Follow my journey to loearn Machine Learning
 J'ai décidé de faire mes premiers pas en #MachineLearning. Le ML est pour beaucoup  (entre autres) le futur des paris sportifs, de plus en plus de logiciels et modèles sont développés. On en avait déjà parlé dans les articles suivants, disponibles sur mon site :
 
 1- https://matheorie-lmap.fr/bet_de_maths/fut1.html
+
 2- https://matheorie-lmap.fr/bet_de_maths/details1.html .
 
 Je ne vais utiliser que des ressources gratuites pour que ce soit reproductible pour n'importe qui ; cependant il est possible que je me serve de supports en anglais.
