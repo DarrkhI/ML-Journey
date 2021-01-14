@@ -73,15 +73,15 @@ def modif_bdd(winner, loser, bdd_vierge):
 #CORPS DU PROGRAMME
 
 #travail sur les base de données
-bdd_2010 = lecture_csv("2010.csv")
-bdd_2011 = lecture_csv("2011.csv")
-bdd_2012 = lecture_csv("2012.csv")
-bdd_2013 = lecture_csv("2013.csv")
-bdd_2014 = lecture_csv("2014.csv")
-bdd_2015 = lecture_csv("2015.csv")
-bdd_2016 = lecture_csv("2016.csv")
-bdd_2017 = lecture_csv("2017.csv")
-bdd_2018 = lecture_csv("2018.csv")
+bdd_2010 = lecture_csv("../csv/2010.csv")
+bdd_2011 = lecture_csv("../csv/2011.csv")
+bdd_2012 = lecture_csv("../csv/2012.csv")
+bdd_2013 = lecture_csv("../csv/2013.csv")
+bdd_2014 = lecture_csv("../csv/2014.csv")
+bdd_2015 = lecture_csv("../csv/2015.csv")
+bdd_2016 = lecture_csv("../csv/2016.csv")
+bdd_2017 = lecture_csv("../csv/2017.csv")
+bdd_2018 = lecture_csv("../csv/2018.csv")
 
 bdd = [bdd_2010, bdd_2011, bdd_2012, bdd_2013, bdd_2014, bdd_2015]
 
