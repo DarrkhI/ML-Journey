@@ -37,7 +37,11 @@ https://lrouviere.github.io/ml_lecture/
 
 ## Consolidation en code de manière générale
 
-J'ai fait un code python (adaptable) pour traiter des fichiers au format CSV et les concaténer & conserver les données qui m’intéressent. Avec un peu d'aléatoire pour répartir les équipes/joueurs ! Ici appliqué à des données de tennis (ATP) entre 2010 et 2018 provenant du site : http://www.tennis-data.co.uk/alldata.php .
+J'ai fait un code python (adaptable) pour traiter des fichiers au format CSV et les concaténer & conserver les données qui m’intéressent. Avec un peu d'aléatoire pour répartir les équipes/joueurs ! Ici appliqué à des données de tennis (ATP) entre 2010 et 2018 provenant du site : [tennis-data](http://www.tennis-data.co.uk/alldata.php) .
 
-fichier : [Tennis_preparation_donnees](https://github.com/DarrkhI/ML-Journey/tree/main/Tennis_preparation_donnees), pour le code python : [lien direct](https://github.com/DarrkhI/ML-Journey/blob/main/Tennis_preparation_donnees/source/transfo_database.py) .
+fichier : [Tennis_preparation_donnees](https://github.com/DarrkhI/ML-Journey/tree/main/projetML%20git/Tennis_preparation_donnees), pour le code python : [lien direct](https://github.com/DarrkhI/ML-Journey/blob/main/projetML%20git/Tennis_preparation_donnees/source/transfo_finale.py) .
+
+Le premier algorithme qui se sert des données traitées sous Python est sous R et se trouve directement avec [ce lien](https://github.com/DarrkhI/ML-Journey/blob/main/projetML%20git/first_algo.R).
+
+Pour essayer de me familiariser avec le ML sous python j'ai commencé par ce code très simple, déatille et expliqué [ici](https://towardsdatascience.com/simple-machine-learning-model-in-python-in-5-lines-of-code-fe03d72e78c6), reproduit directement [ici](https://github.com/DarrkhI/ML-Journey/blob/main/projetML%20git/Tennis_preparation_donnees/source/test_ml.py).
 
